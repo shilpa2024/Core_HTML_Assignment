@@ -1,0 +1,16 @@
+
+
+Tags: Tags are enclosed within angle brackets, `<` and `>`. They are used to mark the beginning and end of HTML elements. Tags often come in pairs - an opening tag and a closing tag, with a forward slash (`/`) before the tag name in the closing tag.
+
+Elements: Elements are composed of tags and the content they enclose. Elements consist of an opening tag, content, and a closing tag. Elements can be nested inside one another to create a hierarchy in the document structure.
+
+Let's look at an example of an HTML element using the `<a>` (anchor) element:
+
+<a href="https://www.example.com">Visit Example.com</a>
+
+In this example:
+`<a>` is the opening tag for the anchor element.
+    `href` is an attribute that specifies the hyperlink's destination (in this case, "https://www.example.com").
+    `Visit Example.com` is the content of the anchor element.
+    `</a>` is the closing tag for the anchor element.
+
